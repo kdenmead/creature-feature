@@ -1,0 +1,13 @@
+---
+title: "Lab5"
+author: "KayDenmead"
+date: "2024-02-22"
+output: html_document
+theme: cosmo
+---
+Hi, my name is Kay Denmead. I am an Evolutionary Genomics and Bioinformatics student, Spring 2024, about to graduate with a B.S. in Biology with a minor in Anthropology and a specialization in creative writing. I am hoping that R will be useful for my future career in science and I am excited to keep learning more about how to use R throughout the semester. 
+
+Here are some bird species I work with in the Stager Lab on campus, the first picture are Purple Martins and the second are Dark-eyed Juncos, banding codes PUMA and DEJU respectively.
+
+![Birds I do research with in the Stager Lab! These are Purple Martins](/cloud/project/purple martins.jpg)
+![I also work with Dark-eyed Junco DNA](/cloud/project/deju.jpg) 
